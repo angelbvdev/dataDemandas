@@ -1,0 +1,2 @@
+Se determino que el data set juiciosiniciadosprofedet-motivodeconflicto.csv 
+esta bastante limpio sin datos vacios
